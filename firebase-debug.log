@@ -1,0 +1,21 @@
+[debug] [2023-04-21T16:40:06.447Z] ----------------------------------------------------------------------
+[debug] [2023-04-21T16:40:06.448Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\dioni\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-04-21T16:40:06.449Z] CLI Version:   11.28.0
+[debug] [2023-04-21T16:40:06.449Z] Platform:      win32
+[debug] [2023-04-21T16:40:06.449Z] Node Version:  v18.12.1
+[debug] [2023-04-21T16:40:06.451Z] Time:          Fri Apr 21 2023 13:40:06 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-04-21T16:40:06.451Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-21T16:40:06.459Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-21T16:40:06.459Z] > authorizing via signed-in user (dbsl1@aluno.ifal.edu.br)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Documentos\Web\lotus-backend
+
